@@ -3,4 +3,6 @@ python ('hello world')
 #= python script
 deploy in dev env
 deployment4
-deploy to staging
+deploy to staging env
+echo good job.
+tested and accepted
